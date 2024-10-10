@@ -6,7 +6,7 @@ I have a passion for creating beautiful & user-friendly interfaces, as well as t
 
 <br>
  
- ✨ **Take a look at my key projects below **✨ 
+ ✨ **Take a look at my key projects below** ✨ 
 
 <br>
 
