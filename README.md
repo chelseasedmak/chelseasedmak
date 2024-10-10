@@ -4,6 +4,7 @@ My name is Chelsea - I'm a website designer and front-end developer based in NE 
 
 I have a passion for creating beautiful & user-friendly interfaces, as well as translating those designs into code. :) 
 
+
  ✨ Take a look at my key projects below ✨ 
 
 ⚡ **Georgia Webster Landing Page** <br>
