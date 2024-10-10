@@ -6,10 +6,10 @@ I have a passion for creating beautiful & user-friendly interfaces, as well as t
 
  ✨ Take a look at my key projects below ✨ 
 
-⚡ **Georgia Webster Landing Page**
-Landing Page: https://chelseasedmak.github.io/georgiawebster-landingpage/
-GitHub Repo: https://github.com/chelseasedmak/georgiawebster-landingpage
-Technologies Used: HTML, CSS, JavaScript, VSCode, Figma
+⚡ **Georgia Webster Landing Page** <br>
+Landing Page: https://chelseasedmak.github.io/georgiawebster-landingpage/ <br>
+GitHub Repo: https://github.com/chelseasedmak/georgiawebster-landingpage <br>
+Technologies Used: HTML, CSS, JavaScript, VSCode, Figma <br>
 
 ⚡ **Rock Paper Scissors Game**
 Game: https://chelseasedmak.github.io/rock-paper-scissors/
