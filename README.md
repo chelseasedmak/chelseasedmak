@@ -29,3 +29,8 @@ I have a passion for creating beautiful & user-friendly interfaces, as well as t
 -- Landing Page: https://chelseasedmak.github.io/joshfudge-landingpage/ <br>
 -- GitHub Repo: https://github.com/chelseasedmak/joshfudge-landingpage <br> 
 -- Technologies Used: HTML, CSS, JavaScript, VSCode, Figma <br>
+
+⚡ **Portfolio Code** <br>
+-- Website Link: https://www.chelseasedmak.com/ <br>
+-- GitHub Repo: https://github.com/chelseasedmak/portfolio-2024 <br> 
+-- Technologies Used: HTML, CSS, JavaScript, VSCode, Figma, Adobe Illustrator <br>
