@@ -10,6 +10,11 @@ I have a passion for creating beautiful & user-friendly interfaces, as well as t
 
 <br>
 
+⚡ **Zach John King Landing Page** <br>
+-- Landing Page: https://chelseasedmak.github.io/zach-king-landing/ <br>
+-- GitHub Repo: https://github.com/chelseasedmak/zach-king-landing <br> 
+-- Technologies Used: HTML, CSS, JavaScript, VSCode, Figma <br>
+
 ⚡ **Georgia Webster Landing Page** <br>
 -- Landing Page: https://chelseasedmak.github.io/georgiawebster-landingpage/ <br>
 -- GitHub Repo: https://github.com/chelseasedmak/georgiawebster-landingpage <br>
